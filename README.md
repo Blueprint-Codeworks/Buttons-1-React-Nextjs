@@ -1,4 +1,5 @@
 Blueprint Codeworks - Button Variations Project
+
 Descripción
 El Button Variations Project es una iniciativa de Blueprint Codeworks que presenta una colección de variaciones de botones, todos diseñados bajo un mismo estilo coherente y moderno. Este proyecto está pensado tanto para la comunidad de desarrolladores como para diseñadores, proporcionando componentes reutilizables que pueden integrarse fácilmente en cualquier proyecto web. La colección ofrece distintos tipos de botones que mantienen una estética uniforme pero cubren diferentes casos de uso y comportamientos interactivos.
 
